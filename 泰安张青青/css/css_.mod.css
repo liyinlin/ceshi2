@@ -1,0 +1,149 @@
+.clearfix .outlide{
+	line-height: 42px;
+	overflow:hidden;
+}
+.bar-box .outlide  .first_span{
+	display: inline-block;
+	width: 13%;
+	text-align: center;
+	float: left;
+	line-height: 16px;
+	margin: 13px 0;
+	border-left: 1px dotted black;
+}
+.bar-box .outlide .common_span{
+	display: inline-block;
+	width: 27%;
+	text-align: center;
+	float: left;
+	line-height: 16px;
+	margin: 13px 0;
+	border-left: 1px dotted black;
+}
+.bar-box .outlide span .first{
+	color:black;
+	font-weight: 600;
+	font-size: 16px;
+}
+.bar-box .outlide span a{
+	color:black;
+	text-align: center;
+	display: inline-block;
+}
+.bar-box .outlide .first_common a:not(.first){
+	width: 14%;
+}
+.bar-box .outlide .second_common a:not(.first){
+	width: 22%;
+}
+.bar-box .outlide .thirdly_common a:not(.first){
+	width:22%;
+}
+
+.bar-box .outlide span a:hover{
+	color:red;
+}
+@font-face {
+	font-family: 'iconfont-seek';
+	src: url('sousuo_icon/iconfont.eot'); /* IE9*/
+	src: url('sousuo_icon/iconfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+	url('sousuo_icon/iconfont.woff') format('woff'), /* chromeã€firefox */
+	url('sousuo_icon/iconfont.ttf') format('truetype'), /* chromeã€firefoxã€operaã€Safari, Android, iOS 4.2+*/
+	url('sousuo_icon/iconfont.svg#iconfont') format('svg'); /* iOS 4.1- */
+}
+.clearfix .outlide .input_text{
+	position: relative;
+	float: right;
+	margin-right: 2%;
+}
+.clearfix .outlide .input_text a{
+	font-family: 'iconfont-seek';
+	font-size: 19px;
+	position: absolute;
+	display: block;
+	top: 0;
+	right: 3%;
+	color: #a09494;
+	height: 100%;
+}
+.clearfix .outlide .input_text input{
+	font-size:16px;
+}
+.con .model-top .model-left .swiper-container{
+	height:420px !important;
+}
+.con .model-top .model-left .swiper-container .pagination{
+	top:84%;
+}
+.model-right_second h4{
+	text-align: center;
+}
+.con_second .model-top .model-right_second .center li{
+	padding: 2.45% 0;
+}
+.con .model-top .model-right .center li{
+	border:none;
+}
+.con .model-top .bar-box{
+	overflow:hidden;
+}
+.con_second{
+	margin-top: 2%;
+}
+.bar-box{
+	box-shadow: none;
+}
+.con .model-top .model-right,.con .model-top .model-left{
+	margin-top: 2%;
+}
+.con_second .model-top .model-right_second .center li{
+	padding: 2.55% 0;
+}
+.con .center_first .add_back_first{
+	background: #ededed url(/r/cms/organization/org/images_20161030/images_first/background_img.png) no-repeat left;
+} 
+.con .model-top .model-left{
+	padding-left: 0px;
+}
+.con .center_first .title .right{
+	height: 40px;
+}
+.con .center_first .add_back_second{
+	background: #ededed url('/r/cms/organization/org/images_20161030/images_first/background_two.png') no-repeat left;
+}
+.con .center_first .add_back_second .right{
+	height: 40px;
+}
+.con .center_first .add_back_thirdly{
+	background: #ededed url('/r/cms/organization/org/images_20161030/images_first/background_three.png') no-repeat left;
+}
+.con .center_first .add_back_thirdly .right{
+	height: 40px;
+}
+.con .model-top .model-left .swiper-slide{
+	height:420px !important;
+}
+.pagination{
+	right:0;
+}
+/* .bar-box .clearfix .outlide span{
+    display: inline-block;
+    width: 13%;
+    text-align: center;
+}
+.bar-box .clearfix .outlide_second span a{
+	font-size:15px;
+	font-weight:600;
+	border-left:1px dotted black;
+	display: inline !important;
+} */
+
+
+
+
+
+
+
+
+
+
